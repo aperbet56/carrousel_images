@@ -6,7 +6,7 @@ Mon objectif a été de construire un simple carrousel d'images. Lutilisateur va
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/carrousel_images/
 
 ## Dévéloppez avec
 
