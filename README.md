@@ -2,7 +2,9 @@
 
 ## Le challenge
 
-Mon objectif a été de construire un simple carrousel d'images. Lutilisateur va pouvoir naviguer parmi les photos en utilisant le bouton 'Suivant" (flèches sur la droite) afin d'afficher l'image suivante et le bouton "Précédent" (flèches sur la gauche) afin de revenir à l'image précédente.
+Mon objectif a été de construire un simple carrousel d'images.
+L'utilisateur va pouvoir naviguer parmi les photos en utilisant le bouton 'Suivant" (flèches sur la droite) afin d'afficher l'image suivante et le bouton "Précédent" (flèches sur la gauche) afin de revenir à l'image précédente.
+Un indicateur (compteur) indique le nombre total d'image du carrousel mais également l'image sur laquelle se trouve l'internaute.
 
 ## Démonstration
 
