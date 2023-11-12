@@ -64,7 +64,16 @@ header h1 {
 
 .image__carousel img.active {
     display: block;
-    animation: fade 1s;
+    animation: fade 1s ease-out;
+}
+
+.carousel__indicator {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #ffffff;
+    font-weight: bold;
 }
 
 footer span {
