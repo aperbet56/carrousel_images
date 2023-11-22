@@ -9,6 +9,9 @@ const numberSlider = allImg.length;
 let index = 0;
 let count = 1;
 
+// Affichage dynamique du compteur dès l'arrivée sur la page web
+indicator.textContent = `${count} / ${numberSlider}`;
+
 // Déclaration de la fonction nextImage qui va permettre de passer à l'image suivante
 const nextImage = () => {
   allImg[index].classList.remove("active");
