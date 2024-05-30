@@ -16,6 +16,7 @@ Lien vers le projet : https://aperbet56.github.io/carrousel_images/
 - CSS
 - Flexbox
 - Animations CSS
+- Page web responsive
 - Utilisation d'un normaliseur : normalize.css
 - JavaScript
 - Code JavaScript commenté
