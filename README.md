@@ -1,5 +1,7 @@
 ## CARROUSEL D'IMAGES
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Mon objectif a été de construire un simple carrousel d'images.
@@ -10,7 +12,7 @@ Un indicateur (compteur) indique le nombre total d'image du carrousel mais égal
 
 Lien vers le projet : https://aperbet56.github.io/carrousel_images/
 
-## Dévéloppez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques
 - CSS
